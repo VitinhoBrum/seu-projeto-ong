@@ -58,11 +58,11 @@ Como este projeto é composto apenas por arquivos estáticos (HTML e imagens), n
 
 1.  Clone este repositório:
     ```bash
-    git clone [COLE A URL DO SEU REPOSITÓRIO AQUI]
+    git clone https://github.com/VitinhoBrum/seu-projeto-ong/tree/5a5ff31b3dc0706b6f0aafc15c93532499567d43/seu-projeto-ong
     ```
 2.  Navegue até a pasta do projeto:
     ```bash
-    cd [NOME-DA-PASTA-DO-PROJETO]
+    cd seu-projeto-ong
     ```
 3.  Abra qualquer um dos arquivos `.html` (começando pelo `index.html`) diretamente no seu navegador.
 
