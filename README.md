@@ -70,5 +70,5 @@ Como este projeto é composto apenas por arquivos estáticos (HTML e imagens), n
 
 ## 👨‍💻 Autor
 
-* **[Seu Nome Completo]**
-* **GitHub:** `[@seu-usuario-github]`
+* **VitinhoBrum**
+* **GitHub:** `@VitinhoBrum`
